@@ -1,16 +1,17 @@
-# social_medial_sample_project
+# Social Media App
 
-Flutter Social Media App project with  Firebase
+This is a social media app sample project with Firebase written with Flutter and Dart. 
 
-## Getting Started
+## What we will learn
+* Integrate Firebase
+* Create and Authenticate users
+* Cloud Firestore
+* Store data remotely with Firebase Storage
+* Create real-time chat
+* Work with Streams
+* Forms and Validation
+* Persisting authentication state
+* Verifying email
+* Identify bugs in production with Crashlytics
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+>This is a project part of the [Flutter & Dart Course](https://www.udemy.com/course/mobile-app-development-with-flutter/).
